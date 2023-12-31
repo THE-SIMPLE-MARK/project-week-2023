@@ -93,3 +93,7 @@
 	float: right;
 	clear: right;
 }
+
+p {
+	margin: 0 5px;
+}
