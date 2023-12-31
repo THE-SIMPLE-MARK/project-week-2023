@@ -1,8 +1,11 @@
 h1 {
-	text-align: center;
 	color: cadetblue;
 }
 
 h2 {
 	color: blueviolet;
+}
+
+a:not(td > a) {
+	color: #0000ee;
 }
