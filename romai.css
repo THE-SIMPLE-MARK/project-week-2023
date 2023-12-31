@@ -50,3 +50,8 @@ td {
 h2 {
 	color: blueviolet;
 }
+
+img {
+	height: 300px;
+	width: 350px;
+}
