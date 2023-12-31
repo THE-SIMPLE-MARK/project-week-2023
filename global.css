@@ -48,7 +48,7 @@
 	text-align: center;
 }
 
-.imgWithDescription {
+.imgWithDesc {
 	border-radius: 5px;
 	width: fit-content;
 	height: fit-content;
@@ -57,11 +57,11 @@
 	margin: 0.5rem 0;
 }
 
-.imgWithDescription img {
+.imgWithDesc img {
 	border-bottom: 1px solid black;
 }
 
-.imgWithDescription p {
+.imgWithDesc p {
 	margin: 3px;
 	margin-bottom: 4px;
 	text-align: center;
@@ -97,4 +97,19 @@
 
 p {
 	margin: 0 5px;
+	margin-bottom: 15px;
+}
+
+footer {
+	margin-bottom: 1rem;
+}
+
+caption {
+	font-weight: bold;
+}
+
+.flexCenter {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
