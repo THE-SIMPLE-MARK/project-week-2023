@@ -1,0 +1,53 @@
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    }
+
+.szamrendszer {
+    position: relative;
+    text-align: center;
+    color: rgb(141, 0, 0);
+    font-size:70px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-weight:bolder;
+}
+
+.container {
+    width: 650px;
+    margin: 0 auto;
+    
+}
+
+.header {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.content {
+    width: 600px;
+    margin: 0 auto;
+}
+
+table {
+    margin: 0 auto;
+    border-spacing: 10px;
+
+}
+
+td {
+    padding: 10px;
+    margin:1px;
+    display:inline-block;
+    background-color: rgba(128, 178, 243, 0.349);
+}
+
+h1 {
+    color: turquoise;
+    text-align: center;
+}
+
+h2 {
+    color: red;
+}
