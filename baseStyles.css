@@ -1,0 +1,45 @@
+.container {
+	width: 650px;
+	margin: 0 auto;
+}
+
+.header {
+	background-image: url("public/headerBg.png");
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 600px;
+	margin: 0 auto;
+	height: 200px;
+}
+
+.headerTitle {
+	color: rgb(141, 0, 0);
+	font-size: 65px;
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+		"Lucida Sans Unicode", Verdana, sans-serif;
+	font-weight: bolder;
+	max-width: 550px;
+}
+
+.navTable {
+	width: 100%;
+}
+
+.navTable tr {
+	width: 100%;
+}
+
+.navTable td {
+	box-sizing: border-box;
+	width: calc(100% / 3);
+	padding: 10px;
+	margin: 1px;
+	text-align: center;
+	background-color: rgba(128, 178, 243, 0.349);
+}
+
+.content {
+	width: 600px;
+	margin: 0 auto;
+}
