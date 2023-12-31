@@ -67,8 +67,6 @@
 }
 
 .styledTable {
-	float: right;
-	clear: right;
 	background-color: #f8f9fa;
 	color: #202122;
 	margin: 1em 0;
@@ -89,4 +87,9 @@
 
 .styledTable > caption {
 	font-weight: bold;
+}
+
+.aside {
+	float: right;
+	clear: right;
 }
