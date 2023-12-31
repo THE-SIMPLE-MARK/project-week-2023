@@ -43,3 +43,25 @@
 	width: 600px;
 	margin: 0 auto;
 }
+
+.center {
+	text-align: center;
+}
+
+.imgWithDescription {
+	border-radius: 5px;
+	width: fit-content;
+	height: fit-content;
+	border: 1px solid black;
+	overflow: hidden;
+}
+
+.imgWithDescription img {
+	border-bottom: 1px solid black;
+}
+
+.imgWithDescription p {
+	margin: 3px;
+	margin-bottom: 4px;
+	text-align: center;
+}
